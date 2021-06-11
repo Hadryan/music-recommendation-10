@@ -9,3 +9,4 @@ print('amisha')
 print('hi')
 print('pravin was here for the third time')
 print('hi again')
+int x
